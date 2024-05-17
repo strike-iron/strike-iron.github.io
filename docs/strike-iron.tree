@@ -7,26 +7,26 @@
                   name="Strike Iron"
                   start-page="README.md">
     <toc-element topic="README.md"/>
-    <toc-element toc-title="Computer science">
+    <toc-element toc-title="Computer science" hidden="true">
         <toc-element toc-title="Computer network"/> <!--TODO-->
         <toc-element toc-title="Algorithm"/> <!--TODO-->
     </toc-element>
-    <toc-element toc-title="Programming languages">
+    <toc-element toc-title="Programming languages" hidden="true">
         <toc-element toc-title="Rust"/> <!--TODO-->
     </toc-element>
     <toc-element toc-title="Markup languages">
-        <toc-element toc-title="TOML"/> <!--TODO-->
-        <toc-element toc-title="YAML"/> <!--TODO-->
-        <toc-element toc-title="XML"/> <!--TODO-->
+        <toc-element toc-title="TOML" hidden="true"/> <!--TODO-->
+        <toc-element toc-title="YAML" hidden="true"/> <!--TODO-->
+        <toc-element toc-title="XML" hidden="true"/> <!--TODO-->
         <toc-element toc-title="LaTex"/> <!--TODO-->
     </toc-element>
-    <toc-element toc-title="Natural languages">
+    <toc-element toc-title="Natural languages" hidden="true">
         <toc-element toc-title="English"/> <!--TODO-->
     </toc-element>
-    <toc-element toc-title="Mathematics"> <!--TODO-->
+    <toc-element toc-title="Mathematics" hidden="true"> <!--TODO-->
     </toc-element>
     <toc-element toc-title="VCS">
-        <toc-element toc-title="Git"/> <!--TODO-->
+        <toc-element toc-title="Git" hidden="true"/> <!--TODO-->
         <toc-element toc-title="GitHub" href="%majiko%/github"/>
     </toc-element>
     <toc-element toc-title="Writerside"/> <!--TODO-->
