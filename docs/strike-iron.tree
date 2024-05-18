@@ -11,7 +11,7 @@
         <toc-element toc-title="Computer network"/> <!--TODO-->
         <toc-element toc-title="Algorithm"/> <!--TODO-->
     </toc-element>
-    <toc-element toc-title="Programming languages" hidden="true">
+    <toc-element toc-title="Programming languages">
         <toc-element toc-title="Rust" href="%majiko%/rust"/>
     </toc-element>
     <toc-element toc-title="Markup languages">
