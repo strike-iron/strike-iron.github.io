@@ -29,5 +29,4 @@
         <toc-element toc-title="Git" hidden="true"/> <!--TODO-->
         <toc-element toc-title="GitHub" href="%majiko%/github"/>
     </toc-element>
-    <toc-element toc-title="Writerside"/> <!--TODO-->
 </instance-profile>
