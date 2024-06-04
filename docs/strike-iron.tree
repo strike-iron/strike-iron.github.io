@@ -7,9 +7,10 @@
                   name="Strike Iron"
                   start-page="README.md">
     <toc-element topic="README.md"/>
-    <toc-element toc-title="Computer science" hidden="true">
-        <toc-element toc-title="Computer network"/> <!--TODO-->
-        <toc-element toc-title="Algorithm"/> <!--TODO-->
+    <toc-element toc-title="Computer science">
+        <toc-element topic="浮点数-IEEE-754.md"/>
+        <toc-element toc-title="Computer network" hidden="true"/> <!--TODO-->
+        <toc-element toc-title="Algorithm" hidden="true"/> <!--TODO-->
     </toc-element>
     <toc-element toc-title="Programming languages">
         <toc-element toc-title="Rust" href="%majiko%/rust"/>
